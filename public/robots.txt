@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Disallow admin paths if added in future
+Disallow: /admin/
+
+Sitemap: https://aaypl.site/sitemap.xml
